@@ -44,7 +44,7 @@
 
 ### 2.3 提交（Commit）
 
-1. 在面板顶部**提交信息输入框**填写 message
+1. 在面板顶部**提交信息输入框**填写 message。
 2. 点击 **✓ 提交** 按钮，或 `Ctrl+Enter` 提交
 
 **智能提交**：设置 `git.enableSmartCommit: true` 后，无暂存文件时可直接提交所有更改。
